@@ -1,0 +1,30 @@
+2018-11-30 13:41:34.459 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:34.474 [main] INFO  com.sgic.automation.demo.util.Log >> ************** Start Test Case *************
+2018-11-30 13:41:34.475 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:35.073 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered username **********
+2018-11-30 13:41:35.279 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered password **********
+2018-11-30 13:41:35.408 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Login button clicked **********
+2018-11-30 13:41:40.755 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:40.756 [main] INFO  com.sgic.automation.demo.util.Log >> ************** Start Test Case *************
+2018-11-30 13:41:40.756 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:41.257 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered username **********
+2018-11-30 13:41:41.617 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered password **********
+2018-11-30 13:41:41.771 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Login button clicked **********
+2018-11-30 13:41:46.073 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:46.074 [main] INFO  com.sgic.automation.demo.util.Log >> ************** Start Test Case *************
+2018-11-30 13:41:46.074 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:46.520 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered username **********
+2018-11-30 13:41:46.931 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered password **********
+2018-11-30 13:41:47.067 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Login button clicked **********
+2018-11-30 13:41:51.485 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:51.485 [main] INFO  com.sgic.automation.demo.util.Log >> ************** Start Test Case *************
+2018-11-30 13:41:51.486 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:51.984 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered username **********
+2018-11-30 13:41:52.416 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered password **********
+2018-11-30 13:41:52.550 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Login button clicked **********
+2018-11-30 13:41:56.764 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:56.765 [main] INFO  com.sgic.automation.demo.util.Log >> ************** Start Test Case *************
+2018-11-30 13:41:56.766 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-30 13:41:57.159 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered username **********
+2018-11-30 13:41:57.410 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered password **********
+2018-11-30 13:41:57.514 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Login button clicked **********
